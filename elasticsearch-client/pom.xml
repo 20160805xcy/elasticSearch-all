@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.xcy</groupId>
-    <artifactId>elasticsearch</artifactId>
+    <artifactId>elasticsearch-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>elasticsearch</name>
+    <name>elasticsearch-client</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
